@@ -1,9 +1,1 @@
-[
-  {
-    "id": "user-9150f4c2-...",
-    "device": "Infinix X6532",
-    "first_open": "2025-10-29T07:12:00Z",
-    "last_seen": "2025-10-29T07:33:12Z",
-    "open_count": 5
-  }
-]
+{"users":{"71228826-4610-4afc-b24b-048eab8e6fde":{"user_id":"user_1761757263325_c9d30894","session_id":"71228826-4610-4afc-b24b-048eab8e6fde","device_id":"ca3087bffaaaa321","device_model":"Infinix X6532","android_version":"14","login_time":"2025-10-30 01:06:30","app_version":"1.0","is_first_launch":false}},"last_updated":"2025-10-30 01:06:32"}
