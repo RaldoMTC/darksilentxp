@@ -187,7 +187,17 @@
       "login_time": "2025-10-30 06:19:08",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1761819550341_b1a40238",
+      "session_id": "114a0707-0450-45d6-8b3c-526586741a99",
+      "device_id": "e55498d126b741bf",
+      "device_model": "VirtualBox",
+      "android_version": "9",
+      "login_time": "2025-10-30 06:19:10",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 06:19:09"
+  "last_updated": "2025-10-30 06:19:11"
 }
