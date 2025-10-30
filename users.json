@@ -1457,7 +1457,17 @@
       "login_time": "2025-10-31 04:53:12",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1761861590860_36c91f36",
+      "session_id": "c576af42-50b5-495b-afa1-df434e625470",
+      "device_id": "143e444d377be930",
+      "device_model": "vivo 1904",
+      "android_version": "11",
+      "login_time": "2025-10-31 04:59:50",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-31 04:53:13"
+  "last_updated": "2025-10-31 04:59:51"
 }
