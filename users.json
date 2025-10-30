@@ -777,7 +777,17 @@
       "login_time": "2025-10-30 20:42:27",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761833541500_eeaead55",
+      "session_id": "ede2e4d7-fe68-4ded-b8cc-44a74f3b94bb",
+      "device_id": "4d4ba122af9acb36",
+      "device_model": "TECNO PR651H",
+      "android_version": "11.0.0",
+      "login_time": "2025-10-30 14:12:21",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 20:42:28"
+  "last_updated": "2025-10-30 14:12:23"
 }
