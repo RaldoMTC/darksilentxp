@@ -1347,7 +1347,17 @@
       "login_time": "2025-10-31 01:09:39",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761816002141_3b91da14",
+      "session_id": "89681807-53db-47fb-b045-34fda284eec2",
+      "device_id": "403a6827e79f77d0",
+      "device_model": "SM-A125F",
+      "android_version": "12",
+      "login_time": "2025-10-31 01:18:11",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-10-31 01:09:39"
+  "last_updated": "2025-10-31 01:18:11"
 }
