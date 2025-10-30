@@ -1597,7 +1597,17 @@
       "login_time": "2025-10-30 18:47:39",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761864540499_7c8c04a5",
+      "session_id": "5ad6a104-bc51-49f3-b25d-18ec5c502d75",
+      "device_id": "b86b91a35362585c",
+      "device_model": "Redmi Note 5",
+      "android_version": "9",
+      "login_time": "2025-10-31 05:49:00",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 18:47:39"
+  "last_updated": "2025-10-31 05:49:01"
 }
