@@ -723,15 +723,15 @@
       "is_first_launch": false
     },
     {
-      "user_id": "user_1761806739248_238f5e09",
-      "session_id": "7c44d44d-bd04-47ef-9706-72848229cdfc",
-      "device_id": "a79c44c0e0c0368e",
-      "device_model": "CPH1723",
-      "android_version": "7.1.1",
-      "login_time": "2025-10-30 14:54:15",
+      "user_id": "user_1761810855999_47292205",
+      "session_id": "a66b350e-685b-4bc8-aafe-4618c7efdacd",
+      "device_id": "8d8370b5d8ecd398",
+      "device_model": "TECNO KL4",
+      "android_version": "14",
+      "login_time": "2025-10-30 14:54:16",
       "app_version": "1.0",
-      "is_first_launch": false
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 14:54:16"
+  "last_updated": "2025-10-30 14:54:17"
 }
