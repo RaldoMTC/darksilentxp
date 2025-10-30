@@ -417,7 +417,17 @@
       "login_time": "2025-10-30 18:10:13",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761822627685_32437b88",
+      "session_id": "43d56f9a-f071-4a50-bead-99ce67a355b0",
+      "device_id": "88949fb654ad06a8",
+      "device_model": "TECNO LI7",
+      "android_version": "14",
+      "login_time": "2025-10-30 18:10:27",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 18:10:14"
+  "last_updated": "2025-10-30 18:10:33"
 }
