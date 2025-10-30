@@ -1121,7 +1121,17 @@
       "login_time": "2025-10-30 16:20:02",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1761816176473_0c93cde9",
+      "session_id": "1f043aca-9cf4-48db-8029-ddddeb035842",
+      "device_id": "2a05dcd1eb8fcee8",
+      "device_model": "TECNO KL4",
+      "android_version": "14",
+      "login_time": "2025-10-30 16:22:56",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 16:20:03"
+  "last_updated": "2025-10-30 16:22:57"
 }
