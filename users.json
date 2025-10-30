@@ -1317,7 +1317,17 @@
       "login_time": "2025-10-31 01:02:39",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761847477510_5ebc91a0",
+      "session_id": "647113ba-7bdc-4201-86fa-7b5ac1b897f9",
+      "device_id": "182f9b7d9c064b8a",
+      "device_model": "Nexus 4",
+      "android_version": "6.0.1",
+      "login_time": "2025-10-30 18:04:37",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-31 01:02:40"
+  "last_updated": "2025-10-30 18:04:42"
 }
