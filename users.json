@@ -471,7 +471,17 @@
       "login_time": "2025-10-30 14:22:05",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761809063383_949e0b9d",
+      "session_id": "26b48bf6-e392-422d-a6ff-9289e478a689",
+      "device_id": "5c25d0e06df5d61c",
+      "device_model": "RMX3630",
+      "android_version": "12",
+      "login_time": "2025-10-30 10:24:23",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 14:22:06"
+  "last_updated": "2025-10-30 10:24:24"
 }
