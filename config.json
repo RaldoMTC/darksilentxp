@@ -1,1 +1,5 @@
-ppp
+{
+  "api_key": "AIzaSyBHVnsKPp8cxKms1BxlDDjPHT3C5SpXokM",
+  "service": "gemini",
+  "version": "1.0"
+}
