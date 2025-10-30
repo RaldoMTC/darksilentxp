@@ -127,7 +127,17 @@
       "login_time": "2025-10-30 06:17:43",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1761819472229_ba536e34",
+      "session_id": "6513c8df-4f10-4405-aa09-a7507b83343e",
+      "device_id": "e55498d126b741bf",
+      "device_model": "Huawei",
+      "android_version": "9",
+      "login_time": "2025-10-30 06:17:52",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 06:17:44"
+  "last_updated": "2025-10-30 06:17:55"
 }
