@@ -1677,7 +1677,17 @@
       "login_time": "2025-10-31 06:16:59",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1761866433035_dea2ce9a",
+      "session_id": "ac7a63d7-b0c7-424b-a08e-acc96f74611c",
+      "device_id": "cab7c0827bebb727",
+      "device_model": "itel P671L",
+      "android_version": "14",
+      "login_time": "2025-10-31 06:20:33",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-31 06:17:00"
+  "last_updated": "2025-10-31 06:20:34"
 }
