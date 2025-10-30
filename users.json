@@ -791,7 +791,17 @@
       "login_time": "2025-10-30 14:59:45",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761810607253_fc628128",
+      "session_id": "eef68ba8-4430-4725-ab10-7c0f384bf197",
+      "device_id": "603b05c3d8c703a8",
+      "device_model": "SM-M205G",
+      "android_version": "10",
+      "login_time": "2025-10-30 14:59:49",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-10-30 14:59:46"
+  "last_updated": "2025-10-30 14:59:50"
 }
