@@ -317,7 +317,17 @@
       "login_time": "2025-10-30 17:44:22",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761815277059_814baddd",
+      "session_id": "70e1a217-69a4-4164-8070-65b51edf3aee",
+      "device_id": "7ba399b9068729b6",
+      "device_model": "LM-V600",
+      "android_version": "16",
+      "login_time": "2025-10-30 17:55:40",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-10-30 17:44:23"
+  "last_updated": "2025-10-30 17:55:42"
 }
