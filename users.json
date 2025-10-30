@@ -399,15 +399,15 @@
       "is_first_launch": false
     },
     {
-      "user_id": "user_1761815584010_a27bc07d",
-      "session_id": "f072ef8a-eef6-41e1-a8e1-66743c5a556c",
-      "device_id": "12cc394f75855231",
-      "device_model": "Infinix X6532",
-      "android_version": "14",
-      "login_time": "2025-10-30 19:09:24",
+      "user_id": "user_1761809140283_378a04dd",
+      "session_id": "4762afd0-8a9e-4ff2-a7c6-0419033c4ebf",
+      "device_id": "57c3a169f0562031",
+      "device_model": "2409BRN2CY",
+      "android_version": "15",
+      "login_time": "2025-10-30 18:09:25",
       "app_version": "1.0",
       "is_first_launch": false
     }
   ],
-  "last_updated": "2025-10-30 19:09:25"
+  "last_updated": "2025-10-30 18:09:26"
 }
