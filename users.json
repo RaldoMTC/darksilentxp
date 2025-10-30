@@ -1111,7 +1111,17 @@
       "login_time": "2025-10-30 17:15:04",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761816002141_3b91da14",
+      "session_id": "1461ebd2-d1fa-49d4-a06b-26527d3e81a4",
+      "device_id": "403a6827e79f77d0",
+      "device_model": "SM-A125F",
+      "android_version": "12",
+      "login_time": "2025-10-30 16:20:02",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 17:15:05"
+  "last_updated": "2025-10-30 16:20:03"
 }
