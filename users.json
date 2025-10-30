@@ -271,7 +271,17 @@
       "login_time": "2025-10-30 12:36:02",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761799057914_b69024c9",
+      "session_id": "60432e4a-f25e-40d8-b049-fa129667765c",
+      "device_id": "ca3087bffaaaa321",
+      "device_model": "Infinix X6532",
+      "android_version": "14",
+      "login_time": "2025-10-30 12:37:37",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-30 12:36:03"
+  "last_updated": "2025-10-30 12:37:39"
 }
