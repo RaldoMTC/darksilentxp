@@ -2737,7 +2737,17 @@
       "login_time": "2025-10-31 18:02:54",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761908636903_e15aa67d",
+      "session_id": "bdf66f8c-318c-4b0c-92c6-65a683476632",
+      "device_id": "e827bdd07dfba977",
+      "device_model": "RMX2030",
+      "android_version": "10",
+      "login_time": "2025-10-31 18:03:56",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-31 18:02:55"
+  "last_updated": "2025-10-31 18:03:57"
 }
