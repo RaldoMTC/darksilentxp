@@ -1947,7 +1947,17 @@
       "login_time": "2025-10-31 12:01:25",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761883257108_1d5b2225",
+      "session_id": "d015c8ba-b4fa-46da-8e64-bb264fa3b35a",
+      "device_id": "cb5ed88d43c7400b",
+      "device_model": "SLA-AL00",
+      "android_version": "9",
+      "login_time": "2025-10-31 12:01:32",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-10-31 12:01:26"
+  "last_updated": "2025-10-31 12:01:33"
 }
