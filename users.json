@@ -2907,7 +2907,17 @@
       "login_time": "2025-10-31 19:53:19",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761911879915_eea2aa26",
+      "session_id": "74e6b2e3-a02f-4301-861a-17c9185e3250",
+      "device_id": "d9b3988ace784e58",
+      "device_model": "TECNO CK7n",
+      "android_version": "14",
+      "login_time": "2025-10-31 19:57:59",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-31 19:53:20"
+  "last_updated": "2025-10-31 19:58:00"
 }
