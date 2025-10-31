@@ -1807,7 +1807,17 @@
       "login_time": "2025-10-31 09:36:50",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761876910608_15d5b2ac",
+      "session_id": "5cf6f196-9394-442f-b157-4c24b83ad1c5",
+      "device_id": "19f2b709671e78c8",
+      "device_model": "SHARK PAR-H0",
+      "android_version": "12",
+      "login_time": "2025-10-31 09:15:10",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-10-31 09:36:51"
+  "last_updated": "2025-10-31 09:15:11"
 }
