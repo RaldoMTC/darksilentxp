@@ -1543,15 +1543,15 @@
       "is_first_launch": true
     },
     {
-      "user_id": "user_1761987059236_6c3748af",
-      "session_id": "180981df-6784-453f-860e-e6ad6d0b7109",
-      "device_id": "8ffb1151eae2d492",
+      "user_id": "user_1761987065826_81a07b21",
+      "session_id": "710188a2-c150-4452-a209-4b142a8c2e9f",
+      "device_id": "4fcca8f6703fb7d3",
       "device_model": "Huawei",
       "android_version": "9",
-      "login_time": "2025-11-01 04:50:59",
+      "login_time": "2025-11-01 04:51:05",
       "app_version": "1.0",
       "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-01 04:51:08"
+  "last_updated": "2025-11-01 04:51:10"
 }
