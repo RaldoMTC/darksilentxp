@@ -461,7 +461,17 @@
       "login_time": "2025-11-01 08:49:29",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761958407542_e538e49b",
+      "session_id": "dce26426-6933-4a17-9791-5c761f249e2f",
+      "device_id": "22e58256de09e1db",
+      "device_model": "ALFA_10BT",
+      "android_version": "12.0.0",
+      "login_time": "2025-11-01 01:53:27",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-01 08:49:30"
+  "last_updated": "2025-11-01 01:53:30"
 }
