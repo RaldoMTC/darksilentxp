@@ -1981,7 +1981,17 @@
       "login_time": "2025-11-01 19:23:06",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761862745835_d4a00d08",
+      "session_id": "9fed9938-0dbd-4a31-bdb1-e2d569690152",
+      "device_id": "aad7b0f966bbd158",
+      "device_model": "Infinix X6882",
+      "android_version": "14",
+      "login_time": "2025-11-01 19:45:12",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-01 19:23:07"
+  "last_updated": "2025-11-01 19:45:13"
 }
