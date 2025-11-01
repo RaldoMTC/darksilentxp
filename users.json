@@ -2071,7 +2071,17 @@
       "login_time": "2025-11-01 21:41:16",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762010092351_9bc83f59",
+      "session_id": "61a9944e-75dc-49aa-9497-0ea909f9a8cd",
+      "device_id": "b80a329ed21a15a8",
+      "device_model": "RMX3261",
+      "android_version": "11",
+      "login_time": "2025-11-01 22:14:52",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-01 21:41:16"
+  "last_updated": "2025-11-01 22:14:53"
 }
