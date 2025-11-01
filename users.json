@@ -1531,7 +1531,17 @@
       "login_time": "2025-11-01 04:50:45",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1761987055359_8e2f2dd1",
+      "session_id": "9c043dcf-b6e9-46a4-9feb-ac5f2ce0eacc",
+      "device_id": "e55498d126b741bf",
+      "device_model": "Huawei",
+      "android_version": "9",
+      "login_time": "2025-11-01 04:50:55",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-01 04:50:46"
+  "last_updated": "2025-11-01 04:51:01"
 }
