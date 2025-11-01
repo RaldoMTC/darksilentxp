@@ -501,7 +501,17 @@
       "login_time": "2025-11-01 08:48:45",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761919399740_3e009c28",
+      "session_id": "ab91b494-23ae-4876-891b-78f74b3b5f61",
+      "device_id": "590638e4de01b4d7",
+      "device_model": "SM-A507FN",
+      "android_version": "9",
+      "login_time": "2025-11-01 09:22:05",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-01 08:48:46"
+  "last_updated": "2025-11-01 09:22:06"
 }
