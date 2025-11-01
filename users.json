@@ -991,7 +991,17 @@
       "login_time": "2025-11-01 14:46:37",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761977346031_163da632",
+      "session_id": "bffb6d99-3124-42c5-91db-ef66a2509a8c",
+      "device_id": "2535d208e08d68ed",
+      "device_model": "Infinix X697",
+      "android_version": "11",
+      "login_time": "2025-11-01 13:47:59",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-01 14:46:38"
+  "last_updated": "2025-11-01 13:48:00"
 }
