@@ -2011,7 +2011,17 @@
       "login_time": "2025-11-01 19:55:31",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1761919399740_3e009c28",
+      "session_id": "2e86845c-65e1-4d95-b38c-b4a374e46e1e",
+      "device_id": "590638e4de01b4d7",
+      "device_model": "SM-A507FN",
+      "android_version": "9",
+      "login_time": "2025-11-01 19:59:54",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-01 19:55:31"
+  "last_updated": "2025-11-01 19:59:54"
 }
