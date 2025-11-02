@@ -611,7 +611,17 @@
       "login_time": "2025-11-02 23:11:14",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761811808492_fa90dc24",
+      "session_id": "becf7e0f-2cde-41ed-9cfa-ccd0716556a3",
+      "device_id": "6bc181f2f3ef75b9",
+      "device_model": "23129RN51X",
+      "android_version": "15",
+      "login_time": "2025-11-02 22:15:06",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-02 23:11:15"
+  "last_updated": "2025-11-02 22:15:07"
 }
