@@ -3151,7 +3151,17 @@
       "login_time": "2025-11-02 10:52:39",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762074468268_21f5ccf1",
+      "session_id": "0187b9a2-2682-4012-9440-b8cb4019a477",
+      "device_id": "49c4d492f07d2f00",
+      "device_model": "Motorola One Vision",
+      "android_version": "8.1.0",
+      "login_time": "2025-11-02 04:07:48",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-02 10:52:43"
+  "last_updated": "2025-11-02 04:07:49"
 }
