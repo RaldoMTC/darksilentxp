@@ -3131,7 +3131,17 @@
       "login_time": "2025-11-02 15:49:40",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762072430767_7d4eff11",
+      "session_id": "7e03ba53-5656-499f-80a1-925674d881a6",
+      "device_id": "5792de26ae18408f",
+      "device_model": "SM-G6100",
+      "android_version": "8.0.0",
+      "login_time": "2025-11-02 15:51:17",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-02 15:49:41"
+  "last_updated": "2025-11-02 15:51:18"
 }
