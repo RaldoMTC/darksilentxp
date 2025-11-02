@@ -2351,7 +2351,17 @@
       "login_time": "2025-11-02 09:39:13",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762047482582_75611794",
+      "session_id": "5c31ebda-5ff5-44ec-a12f-dd03216ea0b6",
+      "device_id": "93058740f04119cb",
+      "device_model": "TRT-TL10",
+      "android_version": "9",
+      "login_time": "2025-11-02 09:39:26",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-02 09:39:14"
+  "last_updated": "2025-11-02 09:39:27"
 }
