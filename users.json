@@ -3041,7 +3041,17 @@
       "login_time": "2025-11-02 15:14:51",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762071344319_559fb080",
+      "session_id": "e8ebf4fb-f081-44db-905b-65187e525852",
+      "device_id": "eb2496abb3cd579c",
+      "device_model": "Infinix X6528B",
+      "android_version": "13",
+      "login_time": "2025-11-02 15:15:44",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-02 15:14:52"
+  "last_updated": "2025-11-02 15:15:45"
 }
