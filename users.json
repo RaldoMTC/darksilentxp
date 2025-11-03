@@ -281,7 +281,17 @@
       "login_time": "2025-11-03 11:07:49",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762071432033_b8863e8b",
+      "session_id": "c65eb2a7-e986-4627-9488-41a0ecada432",
+      "device_id": "d01df09df7420bbc",
+      "device_model": "SM-X115",
+      "android_version": "15",
+      "login_time": "2025-11-03 11:08:21",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-03 11:07:49"
+  "last_updated": "2025-11-03 11:08:22"
 }
