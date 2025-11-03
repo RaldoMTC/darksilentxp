@@ -731,7 +731,17 @@
       "login_time": "2025-11-04 00:26:07",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762212896645_1e4b5c51",
+      "session_id": "b4aa5547-b50a-41ce-89c7-4fb8a0887f80",
+      "device_id": "43fb6068b305d860",
+      "device_model": "SM-T555",
+      "android_version": "7.1.2",
+      "login_time": "2025-11-03 23:34:56",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-04 00:26:09"
+  "last_updated": "2025-11-03 23:34:57"
 }
