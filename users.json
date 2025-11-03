@@ -171,7 +171,17 @@
       "login_time": "2025-11-03 10:59:22",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762138610929_c60723c8",
+      "session_id": "707b53b8-3828-44d0-a3fb-5c339ac50447",
+      "device_id": "8765432101234567",
+      "device_model": "MP1718",
+      "android_version": "9",
+      "login_time": "2025-11-03 10:59:29",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-03 10:59:23"
+  "last_updated": "2025-11-03 10:59:30"
 }
