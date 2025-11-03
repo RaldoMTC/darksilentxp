@@ -961,7 +961,17 @@
       "login_time": "2025-11-03 10:46:40",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762138515296_197d2b52",
+      "session_id": "113f83ce-bf67-4c80-80bd-9da0c7b1c245",
+      "device_id": "c0e6b5ffa5271476",
+      "device_model": "SM-G9860",
+      "android_version": "9",
+      "login_time": "2025-11-03 10:55:15",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-03 10:46:42"
+  "last_updated": "2025-11-03 10:55:17"
 }
