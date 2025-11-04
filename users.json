@@ -1431,7 +1431,17 @@
       "login_time": "2025-11-04 21:01:18",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762262618021_6bae4095",
+      "session_id": "9e219e4e-bcb5-411c-a29d-89271b9a1c3d",
+      "device_id": "c27ddf0768910f6f",
+      "device_model": "V2507",
+      "android_version": "15",
+      "login_time": "2025-11-04 21:02:28",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-04 21:01:19"
+  "last_updated": "2025-11-04 21:02:29"
 }
