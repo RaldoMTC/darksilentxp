@@ -1191,7 +1191,17 @@
       "login_time": "2025-11-04 17:17:34",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1761759273521_35cda8e8",
+      "session_id": "60a68a76-a153-447f-ba3a-c15256d07ecd",
+      "device_id": "53de8df1686627ff",
+      "device_model": "Redmi K20 Pro",
+      "android_version": "11",
+      "login_time": "2025-11-04 15:57:19",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-04 17:17:35"
+  "last_updated": "2025-11-04 15:57:21"
 }
