@@ -2111,7 +2111,17 @@
       "login_time": "2025-11-05 07:22:22",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762298608826_e406fcf8",
+      "session_id": "ecd39c6e-7bdf-40d8-9fbb-f2e3827736d0",
+      "device_id": "b8513954880cb36f",
+      "device_model": "SM-A042F",
+      "android_version": "14",
+      "login_time": "2025-11-05 06:23:28",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-05 07:22:23"
+  "last_updated": "2025-11-05 06:23:29"
 }
