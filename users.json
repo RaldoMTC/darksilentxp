@@ -991,7 +991,17 @@
       "login_time": "2025-11-04 13:18:33",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762071432033_b8863e8b",
+      "session_id": "cf07639d-c57c-446c-ba20-b503a122b3fc",
+      "device_id": "d01df09df7420bbc",
+      "device_model": "SM-X115",
+      "android_version": "15",
+      "login_time": "2025-11-04 13:18:54",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-04 13:18:34"
+  "last_updated": "2025-11-04 13:18:54"
 }
