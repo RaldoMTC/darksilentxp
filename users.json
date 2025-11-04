@@ -1351,7 +1351,17 @@
       "login_time": "2025-11-03 19:08:03",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762214857100_89b8fc9c",
+      "session_id": "bb967d00-253f-4c6f-bf2f-fd615119ac74",
+      "device_id": "3ce00749dd913534",
+      "device_model": "Standard PC (i440FX + PIIX, 1996)",
+      "android_version": "8.1.0",
+      "login_time": "2025-11-03 19:07:37",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-03 19:08:04"
+  "last_updated": "2025-11-03 19:07:38"
 }
