@@ -1871,7 +1871,17 @@
       "login_time": "2025-11-04 16:39:40",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762276764509_ad4c0074",
+      "session_id": "4971cd22-9fc3-4298-8e2a-c0b65f5bb07a",
+      "device_id": "5ac8a62ce34c911a",
+      "device_model": "Pixel 6 Pro",
+      "android_version": "12",
+      "login_time": "2025-11-04 17:19:24",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-04 16:39:41"
+  "last_updated": "2025-11-04 17:19:25"
 }
