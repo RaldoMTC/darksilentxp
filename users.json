@@ -1591,7 +1591,17 @@
       "login_time": "2025-11-04 22:46:03",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762271256835_3b208d4c",
+      "session_id": "914a2f9c-e06e-42ae-9843-dd27754b1016",
+      "device_id": "b75c096e92a1d341",
+      "device_model": "Mi 9X",
+      "android_version": "8.1.0",
+      "login_time": "2025-11-04 10:47:36",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-04 22:46:04"
+  "last_updated": "2025-11-04 10:47:38"
 }
