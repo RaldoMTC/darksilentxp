@@ -1501,7 +1501,17 @@
       "login_time": "2025-11-04 19:46:00",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762267795266_43dc732b",
+      "session_id": "70015078-53df-4240-9ffb-49f3003d032a",
+      "device_id": "918273645546379",
+      "device_model": "Nexus 5X",
+      "android_version": "11",
+      "login_time": "2025-11-04 16:49:55",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-04 19:46:01"
+  "last_updated": "2025-11-04 16:50:01"
 }
