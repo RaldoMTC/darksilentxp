@@ -3001,7 +3001,17 @@
       "login_time": "2025-11-05 18:38:06",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762337991844_73c363b8",
+      "session_id": "f3361a35-c3f3-4733-af04-7baa06a8368f",
+      "device_id": "22d66f37fcf15b35",
+      "device_model": "Infinix X6833B",
+      "android_version": "13",
+      "login_time": "2025-11-05 17:19:51",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-05 18:38:07"
+  "last_updated": "2025-11-05 17:19:52"
 }
