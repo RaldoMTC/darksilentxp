@@ -11,7 +11,17 @@
       "login_time": "2025-11-06 03:08:27",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762374377156_ab65df4b",
+      "session_id": "0cece5c7-785f-4b87-8854-bb18dbfec693",
+      "device_id": "608471f4072cb829",
+      "device_model": "moto g62 5G",
+      "android_version": "13.0.0",
+      "login_time": "2025-11-05 21:26:17",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-06 03:08:27"
+  "last_updated": "2025-11-05 21:26:18"
 }
