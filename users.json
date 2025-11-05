@@ -2521,7 +2521,17 @@
       "login_time": "2025-11-05 13:47:21",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762321622610_28924818",
+      "session_id": "70aa5c16-7fbe-4e79-bff4-5a43e49bc267",
+      "device_id": "8765432101234567",
+      "device_model": "HUAWEI MLA-AL10",
+      "android_version": "9",
+      "login_time": "2025-11-05 13:47:33",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-05 13:47:22"
+  "last_updated": "2025-11-05 13:47:34"
 }
