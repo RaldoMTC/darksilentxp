@@ -2171,7 +2171,17 @@
       "login_time": "2025-11-05 08:23:32",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762301295908_0baac01a",
+      "session_id": "d397ce58-b129-4380-b8a8-782d7a87a04e",
+      "device_id": "fe574303198c79e4",
+      "device_model": "Z2352N",
+      "android_version": "13",
+      "login_time": "2025-11-05 09:24:27",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-05 08:23:33"
+  "last_updated": "2025-11-05 09:24:28"
 }
