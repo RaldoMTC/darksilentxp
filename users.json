@@ -2731,7 +2731,17 @@
       "login_time": "2025-11-05 13:33:44",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762324740006_e017d3f0",
+      "session_id": "51ab9a01-ffff-4f35-b1de-d6c1613251ce",
+      "device_id": "75b2f5039dadbbe9",
+      "device_model": "RMX5070",
+      "android_version": "7.1.1",
+      "login_time": "2025-11-05 14:39:00",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-05 13:33:45"
+  "last_updated": "2025-11-05 14:39:00"
 }
