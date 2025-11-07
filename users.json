@@ -341,7 +341,17 @@
       "login_time": "2025-11-07 17:16:07",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762272790950_caa15bf1",
+      "session_id": "b194cdc0-ce5b-4184-85e2-527c1c6d15b7",
+      "device_id": "25dc99797f689cbd",
+      "device_model": "SM-A135F",
+      "android_version": "14",
+      "login_time": "2025-11-07 21:03:29",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-07 17:16:07"
+  "last_updated": "2025-11-07 21:03:30"
 }
