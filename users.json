@@ -321,7 +321,17 @@
       "login_time": "2025-11-06 22:16:13",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1762478191175_e84d1159",
+      "session_id": "63ae061b-7957-4088-bb68-aca6c918558b",
+      "device_id": "9596c3f9560a83ad",
+      "device_model": "Infinix X669C",
+      "android_version": "12",
+      "login_time": "2025-11-07 08:16:31",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-06 22:16:13"
+  "last_updated": "2025-11-07 08:16:31"
 }
