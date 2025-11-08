@@ -501,7 +501,17 @@
       "login_time": "2025-11-08 12:05:08",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762579105096_1eee1caa",
+      "session_id": "7565dd7b-8395-4182-a982-920317679d03",
+      "device_id": "e63a8576e3d928f",
+      "device_model": "MI 9",
+      "android_version": "7.1.1",
+      "login_time": "2025-11-08 05:18:25",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-08 12:05:09"
+  "last_updated": "2025-11-08 05:18:27"
 }
