@@ -581,7 +581,17 @@
       "login_time": "2025-11-09 00:06:19",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762624367363_21924d27",
+      "session_id": "5c573ef0-9da4-41da-a8a1-000c3ce5230e",
+      "device_id": "918273645546379",
+      "device_model": "Nexus 5X",
+      "android_version": "11",
+      "login_time": "2025-11-08 19:52:47",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-09 00:06:20"
+  "last_updated": "2025-11-08 19:52:51"
 }
