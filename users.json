@@ -841,7 +841,17 @@
       "login_time": "2025-11-13 16:27:09",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1763051234352_ccd1779d",
+      "session_id": "3b46c14b-ca99-4340-aff5-aac3ae7f6207",
+      "device_id": "75e3ea90872ba8ed",
+      "device_model": "Pixel 2",
+      "android_version": "10",
+      "login_time": "2025-11-13 16:27:14",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-13 16:27:09"
+  "last_updated": "2025-11-13 16:27:14"
 }
