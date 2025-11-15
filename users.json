@@ -1011,7 +1011,17 @@
       "login_time": "2025-11-15 13:12:01",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1763177474831_a7318a95",
+      "session_id": "dd1e7aaa-9d9b-4801-b867-4eb6cbd6d438",
+      "device_id": "69c2fe3d6d442ddd",
+      "device_model": "SM-A366B",
+      "android_version": "16",
+      "login_time": "2025-11-15 13:51:18",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-15 13:12:03"
+  "last_updated": "2025-11-15 13:51:18"
 }
