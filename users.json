@@ -1051,7 +1051,17 @@
       "login_time": "2025-11-16 06:59:53",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1763079014353_c7a16480",
+      "session_id": "398c29d3-723b-4bef-b09c-6a58f165f121",
+      "device_id": "9b762e0b43d5a563",
+      "device_model": "itel S665L",
+      "android_version": "12",
+      "login_time": "2025-11-16 09:06:05",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-16 06:59:54"
+  "last_updated": "2025-11-16 09:06:06"
 }
