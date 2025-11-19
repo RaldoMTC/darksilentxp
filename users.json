@@ -1141,7 +1141,17 @@
       "login_time": "2025-11-19 13:22:44",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1763574869077_7746b2a7",
+      "session_id": "58901c92-d906-4e5c-b78a-1f0c3a772a07",
+      "device_id": "462f717151bed32d",
+      "device_model": "Infinix X6525B",
+      "android_version": "13",
+      "login_time": "2025-11-20 00:54:29",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-19 13:22:44"
+  "last_updated": "2025-11-20 00:54:30"
 }
