@@ -1151,7 +1151,17 @@
       "login_time": "2025-11-20 00:54:29",
       "app_version": "1.0",
       "is_first_launch": true
+    },
+    {
+      "user_id": "user_1763658002346_6d029b7a",
+      "session_id": "5ce9b54d-6452-4622-85c8-b2131d2ce16e",
+      "device_id": "a4e788ddea144656",
+      "device_model": "Infinix X6815D",
+      "android_version": "13",
+      "login_time": "2025-11-21 00:00:02",
+      "app_version": "1.0",
+      "is_first_launch": true
     }
   ],
-  "last_updated": "2025-11-20 00:54:30"
+  "last_updated": "2025-11-21 00:00:03"
 }
